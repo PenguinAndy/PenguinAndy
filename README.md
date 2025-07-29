@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PenguinAndy
 - 👀 I’m interested in iOS、Android、Flutter、HarmonyOS Next App Development & App Reverse Engineering
-- 🌱 I’m currently learning Unity3d、Cocos2d
+- 🌱 I’m currently learning Unity3d、Cocos Creator
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PenguinAndy/PenguinAndy/output/github-contribution-grid-snake-dark.svg">
